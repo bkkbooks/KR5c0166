@@ -1,0 +1,171 @@
+canonical_identifier: bkk:krp/KR5c0166/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5c0166/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 混元聖紀
+  date: '2015-08-29 00:51:18.008738'
+  source:
+    repository: kanripo
+    path: KR5c0166
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0166_000-YP-C.yaml, hash: 'sha256:407fcf00ee4f332933e70169fcf393c696d625e0ef6959a114a07bec590334c2'}
+  - {seq: 1, filename: KR5c0166_001-YP-C.yaml, hash: 'sha256:aea9301497a8b591633ac54f72601f8d3f22bdea4aa8596f2ac875d2f562be53'}
+  - {seq: 2, filename: KR5c0166_002-YP-C.yaml, hash: 'sha256:c25f3bae81e4259701dd89a56e9c39b986422956b94b97cc61a2f10f85c51751'}
+  - {seq: 3, filename: KR5c0166_003-YP-C.yaml, hash: 'sha256:48ac633f316ffe1c4a4470cf66b7a9de124d552ce3f547f36583ba898147a8a4'}
+  - {seq: 4, filename: KR5c0166_004-YP-C.yaml, hash: 'sha256:e99c9d35e085588ad2d09e6ce264773e6248c1f9884402fa1fbe0ddfde8c2346'}
+  - {seq: 5, filename: KR5c0166_005-YP-C.yaml, hash: 'sha256:6398acb3ca72e5f3b019272c85a1498c76f1a978048c827c76bacc3baea48016'}
+  - {seq: 6, filename: KR5c0166_006-YP-C.yaml, hash: 'sha256:25f8502320176cf3925f770f02b57c0fb087f44ab16d4c105ebd082317008772'}
+  - {seq: 7, filename: KR5c0166_007-YP-C.yaml, hash: 'sha256:6d84e075057dd3fe6cdeb2814cca9babf8d6234e73473db857b64fc3af1857ab'}
+  - {seq: 8, filename: KR5c0166_008-YP-C.yaml, hash: 'sha256:3c8efba803e92ecad516f4291b99653751113e7a5909e4d9270f6b8c58ba33e9'}
+  - {seq: 9, filename: KR5c0166_009-YP-C.yaml, hash: 'sha256:8421603e898430495c601f8bcfbd56af6aa0c64e321a4fa8f1a876c34c902e6a'}
+  - {seq: 10, filename: KR5c0166_010-YP-C.yaml, hash: 'sha256:8e0825133862a5484dbcc3dec62dd62e33bc9e41bd1f31a75dcbf0683dcce2bf'}
+  - {seq: 11, filename: KR5c0166_011-YP-C.yaml, hash: 'sha256:71c3a5d60fb14202d584ba3c9a71dbae3aebe75cd547206d0777d9d2b74bc040'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0166_000-YP-C.markers.yaml, hash: 'sha256:ab8fad489a4bf724d5d691cec539606811aa7dc46e57c6e58efe45404b46a7f9'}
+  - {seq: 1, role: markers, filename: assets/KR5c0166_001-YP-C.markers.yaml, hash: 'sha256:718175332f5990c9ad4586fb43bf7fe89a876f4ca6a04475c19f9febbb004971'}
+  - {seq: 2, role: markers, filename: assets/KR5c0166_002-YP-C.markers.yaml, hash: 'sha256:330108a17f86f05a1d0f2c9aaf2b59f45c1e184d8881fce26343c192ee31978a'}
+  - {seq: 3, role: markers, filename: assets/KR5c0166_003-YP-C.markers.yaml, hash: 'sha256:1c8eeac1c62117b0cb177477c17ec606a8f4ab0c3e8300dc1a029603dac1533d'}
+  - {seq: 4, role: markers, filename: assets/KR5c0166_004-YP-C.markers.yaml, hash: 'sha256:42fa75427655098a9e5f7f5d55a7df01464d3fae541c89075eddab7bb1669517'}
+  - {seq: 5, role: markers, filename: assets/KR5c0166_005-YP-C.markers.yaml, hash: 'sha256:3db438e9cd12f6566f36ee6cebfb60760cb70dea2112aa44d3f97e046006cd08'}
+  - {seq: 6, role: markers, filename: assets/KR5c0166_006-YP-C.markers.yaml, hash: 'sha256:ddde80dd0dc5bd5d582002a86ed4be916e2127db1aa21142f2bd2839e2528c28'}
+  - {seq: 7, role: markers, filename: assets/KR5c0166_007-YP-C.markers.yaml, hash: 'sha256:aeb74245399a495793fc63374a3b9e20898bd55fc7717d1617e965e9ef136f21'}
+  - {seq: 8, role: markers, filename: assets/KR5c0166_008-YP-C.markers.yaml, hash: 'sha256:8bb6974c1f2a969411d9af4e506e4fe867896447054747ec7ea182271f5f30b6'}
+  - {seq: 9, role: markers, filename: assets/KR5c0166_009-YP-C.markers.yaml, hash: 'sha256:fb33afaeabc0f6ca177ec221c197093a96f0ce3069a3e4685f4250d6cb13237c'}
+  - {seq: 10, role: markers, filename: assets/KR5c0166_010-YP-C.markers.yaml, hash: 'sha256:49676d95878a8046dcdb8ed1658cc1945cabb3ff75f69a315756ec364f9811ab'}
+  - {seq: 11, role: markers, filename: assets/KR5c0166_011-YP-C.markers.yaml, hash: 'sha256:b262867f9c4d2580570a90516148b2a99883ca42c578c0390b95dfc89f0f6531'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0166_YP-C_06weiji-07-0117b
+    span:
+    - body
+    - 0
+    - 533
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5c0166_YP-C_06weiji-06-0004a
+    span:
+    - body
+    - 0
+    - 12303
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5c0166_YP-C_06weiji-06-0034b
+    span:
+    - body
+    - 0
+    - 14019
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5c0166_YP-C_06weiji-06-0067a
+    span:
+    - body
+    - 0
+    - 9143
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5c0166_YP-C_06weiji-06-0088a
+    span:
+    - body
+    - 0
+    - 5891
+  label: juan 004
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR5c0166_YP-C_06weiji-06-0102a
+    span:
+    - body
+    - 0
+    - 4628
+  label: juan 005
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5c0166_YP-C_06weiji-06-0113b
+    span:
+    - body
+    - 0
+    - 8852
+  label: juan 006
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR5c0166_YP-C_06weiji-07-0020b
+    span:
+    - body
+    - 0
+    - 7279
+  label: juan 007
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR5c0166_YP-C_06weiji-07-0037a
+    span:
+    - body
+    - 0
+    - 5664
+  label: juan 008
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR5c0166_YP-C_06weiji-07-0051a
+    span:
+    - body
+    - 0
+    - 7524
+  label: juan 009
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR5c0166_YP-C_06weiji-07-0071b
+    span:
+    - body
+    - 0
+    - 2114
+  label: juan 010
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR5c0166_YP-C_06weiji-07-0079b
+    span:
+    - body
+    - 0
+    - 15486
+  label: juan 011
+  type: section
+  level: 1
+hash: sha256:3c4a8b437ae8fd6b88a9bb3ccfacf117e4226469da234b75d698bc2e09ec52f8
